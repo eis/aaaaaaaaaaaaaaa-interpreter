@@ -26,10 +26,10 @@
         <artifactId>antlr4-maven-plugin</artifactId>
         <version>${antlr.version}</version>
         <configuration>
-          <outputDirectory>${basedir}/src/main/java/net/roddy/aaaaaaaaaaaaaa</outputDirectory>
+          <outputDirectory>${basedir}/src/main/java/net/roddy/aaaaaaaaaaaaaa/antlr4</outputDirectory>
           <arguments>
             <argument>-package</argument>
-            <argument>net.roddy.aaaaaaaaaaaaaa</argument>
+            <argument>net.roddy.aaaaaaaaaaaaaa.antlr4</argument>
           </arguments>
         </configuration>
         <executions>

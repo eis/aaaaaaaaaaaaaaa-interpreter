@@ -7,7 +7,7 @@ hs_err_pid*
 target/*
 
 # Generated source
-AAAAAAAAAAAAAA*
+src/main/java/net/roddy/aaaaaaaaaaaaaa/antlr4/*
 
 # Maven shade plugin intermediate file
 dependency*.xml
