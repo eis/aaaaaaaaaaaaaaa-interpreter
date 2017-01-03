@@ -7,7 +7,7 @@
 grammar AAAAAAAAAAAAAA;
 
 program
-    : (command ?)+ EOF
+    : (command)+ EOF
     ;
 
 command
